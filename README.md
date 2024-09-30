@@ -1,2 +1,2 @@
 <img src="github-header-image.png">
-<h1>Author: <a href="https://github.com/zhsln">Zhasulan A. Abdigaliyev from SE-2304</a></h1>
+<p><a href="https://github.com/zhsln">Link to profile</a></p>
